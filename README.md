@@ -15,7 +15,7 @@ Supported Debian base (Debian , Ubuntu) with X86 & Arm64 & OpenVZ architecture
 #### 👉 Debian Base (Ubuntu & Debian) x86 & Arm64
    
 ```
-apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/optimizer.sh --ipv4)
+apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/hexyali/VPS-Optimizer/main/optimizer.sh --ipv4)
 ```
 
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -27,7 +27,7 @@ apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/opiran-c
 #### 👉 UBUNTU / DEBIAN X86
    
 ```
-bash <(curl -s https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/bbrv3.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/hexyali/VPS-Optimizer/main/bbrv3.sh --ipv4)
 ```
 ![image](https://github.com/opiran-club/VPS-Optimizer/assets/130220895/edb14f2d-7558-4808-9ee6-f69e58cd863a)
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -40,7 +40,7 @@ bash <(curl -s https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/
 ###  ‼️ INSTRUCTION ‼️
    
 ```
-wget -N https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/Install/udpgw.sh && bash udpgw.sh
+wget -N https://raw.githubusercontent.com/hexyali/VPS-Optimizer/main/Install/udpgw.sh && bash udpgw.sh
 ```
 ![image](https://github.com/opiran-club/VPS-Optimizer/assets/130220895/9552249d-f435-4521-871c-cc5ed335744f)
 ---------------------------------------------------------------------------------------------------------------------------------------
